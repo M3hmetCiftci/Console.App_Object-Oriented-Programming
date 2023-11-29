@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\bin\Debug\Object Oriented Programming_Encapsulation.exe.config
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\bin\Debug\Object Oriented Programming_Encapsulation.exe
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\bin\Debug\Object Oriented Programming_Encapsulation.pdb
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\obj\Debug\Object Oriented Programming_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\obj\Debug\Object Oriented Programming_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\obj\Debug\Object Oriented Programming_Encapsulation.exe
+C:\Users\asus\source\repos\Object Oriented Programming_Encapsulation\Object Oriented Programming_Encapsulation\obj\Debug\Object Oriented Programming_Encapsulation.pdb
